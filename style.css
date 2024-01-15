@@ -1,0 +1,19 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    color: white; /* For text color */
+    background: red; /* For background color */
+    
+}
+
+.second-container{
+    color: green;
+}
+
+#third-div {
+    background-color:chocolate;
+    color: white;
+
+}
